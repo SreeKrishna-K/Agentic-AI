@@ -5,3 +5,11 @@ langchain-openai
 python-dotenv
 rich
 pydantic
+pytest
+
+langchain-text-splitters
+langchain-chroma
+beautifulsoup4
+
+langchain-unstructured
+unstructured
